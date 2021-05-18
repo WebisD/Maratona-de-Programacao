@@ -1,4 +1,4 @@
-# STL
+# STL - Standard Template Library
 
 - [x] Vector
 - [ ] Set
